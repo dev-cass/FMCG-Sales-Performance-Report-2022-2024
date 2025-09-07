@@ -143,7 +143,7 @@ From 2022–2024, the FMCG (Fast-Moving Consumer Goods) sales peaked at $891K in
 ## Assumptions and Caveats
 
 - No unique Order ID, COUNT(*) is used as a proxy for order count, but individual transactions cannot be traced to unique orders.  
-- Sales were not segmented by brand or sub-category, limiting intra-category insights.  
+- Sales were not segmented by brand.
 - Shipping performance and lead-time analysis were not performed.  
 - Sales were not broken down by packaging format.  
 - Inventory constraints were not considered in demand analysis.  

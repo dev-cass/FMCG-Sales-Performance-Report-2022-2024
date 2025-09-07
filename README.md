@@ -120,29 +120,25 @@ From 2022–2024, the FMCG (Fast-Moving Consumer Goods) sales peaked at $891K in
 ## Recommendations
 
 1. **Product Strategy**
-   - Diversify beyond Yogurt (~40% of sales, declining from 47.9% in 2022).  
-   - Invest in Snack Bars (fastest growth: 3.4% → 19% share by 2024; target 25% by 2025).  
-   - Refresh Milk (–9% share) and Ready Meals (–4% share) with campaigns to stabilize.  
+   - Reduce over-dependence on Yogurt by investing in fast-growing Snack Bars.  
+   - Stabilize declining categories (Milk, Ready Meals) with product refresh or targeted campaigns to prevent further share loss.  
 
 2. **Sales & Growth**
-   - Launch at least 4 new SKUs per year to smooth sales peaks (avoid dependence on one-offs like YO-024).  
-   - Run post-launch retention campaigns in PL-South to sustain adoption.  
-   - Improve Average Order Value (AOV) by +10% in next 2 quarters.  
+   - Plan quarterly product launches or limited editions to avoid sales peaks being tied to one-off events like YO-024.  
+   - Use post-launch retention campaigns in PL-South to sustain adoption momentum.  
 
 3. **Promotion & Pricing**
-   - Use promotions tactically for upselling/cross-selling new SKUs with established ones.  
-   - Avoid heavy reliance on discounts; cap discount-driven sales at ≤30% of revenue.  
-   - Target +12% increase in basket size from promotion-linked orders.  
+   - Deploy promotions selectively to maximize basket size (AOV), especially for cross-selling new SKUs with established ones.  
+   - Avoid over-reliance on discounts to prevent margin erosion.  
+   - Implement upselling and cross-selling strategies to increase revenue per order and counteract declining AOV, leveraging popular SKUs and fast-growing categories.  
 
 4. **Channel Strategy**
-   - Strengthen Retail partnerships (still the largest channel).  
-   - Accelerate E-commerce as the long-term growth engine.  
-   - Treat Discount as a short-term tactical channel (inventory clearance, trial pushes).  
+   - Strengthen Retail partnerships (which is still the biggest channel overall) while doubling down on E-commerce acceleration as a long-term growth engine.  
+   - Treat Discount as a short-term tactical channel (inventory clearance, trial pushes), not a core driver.  
 
 5. **Regional Strategy**
-   - Use PL-South as pilot region (highest responsiveness to new launches).  
-   - Roll out proven SKUs to PL-Central and PL-North for scale.  
-   - Target ≥15% adoption rate for pilots in PL-South, with national rollout within 6 months.  
+   - Use PL-South as the testbed since it shows higher adoption or responsiveness because early success and high engagement make it a better region to validate new launches.  
+   - Roll out successful SKUs into PL-Central and PL-North to increase scale and revenue.
 
 ## Assumptions and Caveats
 
